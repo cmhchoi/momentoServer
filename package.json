@@ -15,7 +15,7 @@
     "passport-local" : "~0.1.6",
     "pg": "^5.1.0",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^3.23.3",
+    "sequelize": "^5.8.11",
     "connect-flash" : "~0.1.1",
     "ejs" : "~0.8.5", 
     "bcrypt-nodejs" : "latest", 
